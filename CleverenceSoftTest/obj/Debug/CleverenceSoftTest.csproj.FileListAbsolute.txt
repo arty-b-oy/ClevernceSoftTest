@@ -1,0 +1,7 @@
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\bin\Debug\CleverenceSoftTest.exe.config
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\bin\Debug\CleverenceSoftTest.exe
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\bin\Debug\CleverenceSoftTest.pdb
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\obj\Debug\CleverenceSoftTest.csproj.AssemblyReference.cache
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\obj\Debug\CleverenceSoftTest.csproj.CoreCompileInputs.cache
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\obj\Debug\CleverenceSoftTest.exe
+D:\Work\Test\CleverenceSoftTest\CleverenceSoftTest\obj\Debug\CleverenceSoftTest.pdb
